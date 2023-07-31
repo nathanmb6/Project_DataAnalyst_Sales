@@ -16,3 +16,6 @@ Tujuan:
 1. Mencari Pola & Tren Penjualan
 2. Mencari Informasi Geografi Penjualan dan Pengiriman Barang
 3. Mencari berbagai Perilaku Customer membeli Produk & Metode Pembayaran
+
+Data Visualization:
+https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/Project_Sales_16905466309530/Dash_Profit
