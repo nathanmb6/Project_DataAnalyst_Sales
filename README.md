@@ -1,6 +1,7 @@
 # Project_DataAnalyst_Sales
 Project Data Analyst Superstore Sales from https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
+Pertanyaan:
 1. Kategori & Sub Kategori Produk apa yang sering di pesan
 2. Produk apa yang sering di pesan berdasarkan Segmen(Pengguna/User) & pengelompokkan jenis produk sertakan juga total salesnya
 3. Bagaimana Selisih setiap Pemesenan Barang sampai Pengiriman Barang berdasarkan metode Pengiriman dan Kategori Barang
