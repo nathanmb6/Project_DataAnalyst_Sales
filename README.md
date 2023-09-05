@@ -1,4 +1,5 @@
-# Project Data Analyst Superstore Sales from https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+# Project Data Analyst Superstore Sales
+From: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 # Data Exploration:
 
