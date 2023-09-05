@@ -1,22 +1,23 @@
-# Project_DataAnalyst_Sales
-Project Data Analyst Superstore Sales from https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+# Project Data Analyst Superstore Sales from https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-Data Exploration:
-1. Kategori & Sub Kategori Produk apa yang sering di pesan
-2. Produk apa yang sering di pesan berdasarkan Segmen(Pengguna/User) & pengelompokkan jenis produk sertakan juga total salesnya
-3. Bagaimana Selisih setiap Pemesenan Barang sampai Pengiriman Barang berdasarkan metode Pengiriman dan Kategori Barang
-4. Di kota mana sering adanya pengiriman barang berdasarkan provinsi/state
-5. Siapa saja customer yang sering membeli barang sertakan juga nama kota & bagian regionnya
-6. Bagaimana Pendapatan berdasarkan kategori barang (min, mean, max, sum)
-7. Bagaimana Pendapatan berdasarkan Sub kategori barang(min, mean, max, sum)
-8. Bagaimana Pendapatan Setiap Tahun (min, mean, max, sum)
-9. Bagaimana Peluang munculnya suatu variasi permasalahan yang akan muncul berdasarkan Kategori & Sub Kategori (gunakan standar deviasi)
-10. Bagaimana jumlah customer memilih metode pengiriman berdasarkan segmen dan jenis produk
+# Data Exploration:
 
-Tujuan:
-1. Mencari Pola & Tren Penjualan
-2. Mencari Informasi Geografi Penjualan dan Pengiriman Barang
-3. Mencari berbagai Perilaku Customer membeli Produk & Metode Pembayaran
+1. What product categories and subcategories are frequently ordered?
+2. Which products are frequently ordered based on customer segments, and group them by product type, including total sales?
+3. How long is the lead time from ordering to delivery based on the shipping method and product category?
+4. In which cities are deliveries most frequent based on province/state?
+5. Who are the customers frequently purchasing items, including their city and region?
+6. What is the revenue based on product categories (min, mean, max, sum)?
+7. How is the revenue based on product subcategories (min, mean, max, sum)?
+8. What is the revenue each year (min, mean, max, sum)?
+9. What is the likelihood of encountering a variation in issues based on category and subcategory (using standard deviation)?
+10. How many customers choose the shipping method based on segments and product types?
 
-Data Visualization:
+# Objectives:
+
+1. Find Sales Patterns and Trends.
+2. Explore Geographic Sales and Shipping Information.
+3. Discover Various Customer Buying Behaviors and Payment Methods.
+
+# Data Visualization:
 https://public.tableau.com/app/profile/nahtaniel.iskandar/viz/Project_Sales_16905466309530/Dash_Profit
